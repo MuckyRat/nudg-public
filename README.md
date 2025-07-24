@@ -56,21 +56,6 @@ Upgrading to Premium unlocks the full potential of nudg:
 
 ---
 
-## ⚙️ Technology Stack
-
-* **UI Framework**: SwiftUI
-* **Backend Connection**: Direct API calls to a user-provided Nightscout instance.
-* **Authentication**: Firebase Anonymous Authentication for unique user identification.
-* **In-App Purchases**: StoreKit 2 for managing premium subscriptions.
-* **AI & Nutrition**:
-    * Google's Gemini API for the AI Nutrition feature.
-    * Nutritionix API for the standard nutrition calculator.
-* **Health Data**: Apple's HealthKit for integration with the Health app.
-* **Settings Sync**: iCloud Key-Value Store for syncing certain settings like learned meal patterns across devices.
-* **Advertising**: Google AdMob for rewarded video ads.
-
----
-
 ## 📬 Support
 
 * **Email**: [nudg@rhodzy.com](mailto:nudg@rhodzy.com)
